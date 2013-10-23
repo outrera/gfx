@@ -1,0 +1,3 @@
+Graphics manipulation routines. Including PNG save and load support, without external dependencies like libpng
+
+zlib.lisp was combined from "chipz" and "Salza2" code.
