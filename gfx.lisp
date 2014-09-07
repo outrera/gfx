@@ -706,7 +706,7 @@
     (if (> sx dx)
         (setf xlen (- sx dx)
               incr -1)
-        (setf xlen (- dx sy)
+        (setf xlen (- dx sx)
               incr 1))
     (setf x sx
           y sy)
